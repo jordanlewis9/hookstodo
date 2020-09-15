@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "finish writing hooks chapter"
+    },
+    {
+      "id": 2,
+      "text": "play with kids"
+    },
+    {
+      "id": "1fb2728e-b24a-4b1e-abd0-82193e2f7a4c",
+      "text": "Lets make a new todo!"
+    }
+  ]
+}
